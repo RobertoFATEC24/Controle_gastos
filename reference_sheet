@@ -1,0 +1,25 @@
+ControleGastos
+│
+├── assets
+│
+├── components
+│   └── ExpenseItem.js
+│
+├── database
+│   └── database.js
+│
+├── navigation
+│   └── routes.js
+│
+├── screens
+│   ├── HomeScreen.js
+│   └── AddExpenseScreen.js
+│
+├── styles
+│   └── styles.js
+│
+├── App.js
+│
+├── package.json
+│
+└── app.json
